@@ -59,13 +59,13 @@ roughness:0.25
 
 
 
-/*const mesh = new THREE.Mesh(
+const mesh = new THREE.Mesh(
 geometry,
 material
 );
 
 
-scene.add(mesh);*/
+scene.add(mesh);
 
 
 
