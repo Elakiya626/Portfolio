@@ -1433,47 +1433,18 @@ justify-content:space-between;
 
 
 color:#777;
-
-
 }
-
-
-
-
-
 
 @media(max-width:900px){
-
-
 .footer h2{
-
-
 font-size:60px;
-
-
 }
-
-
-
 .footer-card{
-
-
 grid-template-columns:1fr;
-
-
 }
-
-
-
 .footer-bottom{
-
-
 flex-direction:column;
-
-
 gap:20px;
-
-
 }
 
 
